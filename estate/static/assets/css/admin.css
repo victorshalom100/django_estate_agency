@@ -1,0 +1,7 @@
+#branding h1{
+  color: #fff;
+}
+
+.module h2, .module caption, .inline-group h2, #header{
+  background: green;
+}
